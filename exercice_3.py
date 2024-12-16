@@ -18,4 +18,4 @@ print(type(e))
 #<class 'float'> = floating number = Nombre flotant = Nombre aproximatif
 #<class 'float'> = //
 #<class 'str'> = string = texte
-#<class 'str'> = //
+#<class 'str'> = //  
