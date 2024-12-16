@@ -1,4 +1,4 @@
-
+ 
 # EduPython Exercices
 
 Ce dépôt contient une série d'exercices Python conçus pour apprendre les bases de la programmation, en particulier la manipulation des chaînes de caractères.
