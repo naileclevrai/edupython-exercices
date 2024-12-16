@@ -9,4 +9,4 @@ print(e)
 x="il fait "
 y="beau"
 print(x+y)
-# Exercice pour apprendre la concaténation de chaînes de caractères.
+# Exercice pour apprendre la concaténation de chaînes de caractères. 
