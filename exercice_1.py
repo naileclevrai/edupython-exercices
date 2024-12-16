@@ -1,5 +1,5 @@
 # Exercice 1 : Découverte de la concaténation de chaînes de caractères simples.
-# Scéance 1 : Première exercice
+# Scéance 1 : Première exercice 
 # git on 16/12/2024
 a=2
 b=5
