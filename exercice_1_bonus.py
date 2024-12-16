@@ -1,7 +1,7 @@
 # Exercice bonus : Concaténation de chaînes avec des modifications spécifiques.
 # Scéance 1 : Edited by Nailec
 # git on 16/12/2024
-a, b = 2, 5
+a, b = 2, 5 
 operations = {
     "somme": a + b,
     "différence": a - b,
